@@ -1,80 +1,46 @@
-# 👋 Hi, I'm Don
+# Hi, I'm Srinivasarao Potu 👋
 
-🚀 Senior DevOps & Platform Engineer (10+ years IT experience)  
-⚙️ DevOps Specialist (4+ years) | Cloud | Kubernetes | Terraform | CI/CD  
-📍 Based in Belfast | Open to Contract Roles in Dublin (Onsite/Hybrid/Remote)
+### Principal DevOps | Platform | Site Reliability Engineer
 
----
+DevOps, Platform and Site Reliability Engineer with **10 years of experience** designing, automating and operating reliable cloud platforms across financial services and enterprise environments.
 
-## 💼 Professional Summary
-Results-driven Senior DevOps Engineer with 10+ years of IT experience and 4+ years specializing in DevOps, cloud infrastructure, and platform engineering. 
+My core focus is **AWS, Kubernetes, Terraform, CI/CD, automation, observability and production reliability**.
 
-Proven track record of designing, automating, and optimizing scalable, secure, and highly available systems across AWS and Azure environments. Experienced in delivering enterprise-grade CI/CD pipelines, Kubernetes platforms, and Infrastructure as Code solutions.
+## 🚀 What I Do
 
-✔ Available for contract roles in Dublin  
-✔ Able to onboard quickly and deliver immediate value  
-✔ Strong experience working in fast-paced, production environments  
+* ☁️ Design and operate cloud platforms on **AWS**
+* ☸️ Build and support **Kubernetes / Amazon EKS** platforms
+* 🏗️ Automate infrastructure using **Terraform & Ansible**
+* 🔄 Build **CI/CD pipelines** with Jenkins & GitHub Actions
+* 🐍 Automate operational tasks using **Python & Bash**
+* 📊 Improve observability with **Datadog, Splunk, Prometheus & Grafana**
+* ⚡ Apply **SRE practices** to improve availability and operational reliability
 
----
+## 🛠️ Technology Stack
 
-## 🛠️ Core Expertise
+**Cloud:** AWS • GCP
+**Containers:** Kubernetes • EKS • Docker • Helm
+**IaC:** Terraform • Ansible
+**CI/CD:** Jenkins • GitHub Actions • Git
+**Scripting:** Python • Bash • PowerShell
+**Observability:** Datadog • Splunk • Prometheus • Grafana • CloudWatch • ELK
+**Security:** IAM • Snyk • Veracode • SonarQube
+**Systems:** Linux • RHEL • Ubuntu • AIX
 
-### ☁️ Cloud Platforms
-- AWS, Azure (multi-environment deployments)
+## 🏆 Certifications
 
-### ⚙️ DevOps & Automation
-- Terraform (modules, state management, environments)  
-- CI/CD: GitHub Actions, Jenkins, Azure DevOps  
-- Configuration Management: Ansible  
+AWS Certified Solutions Architect • Google Cloud Professional Cloud Architect • CKA • ITIL Foundation
 
-### ☸️ Containers & Orchestration
-- Docker, Kubernetes (AKS, EKS)  
-- Helm deployments & release management  
+## 📌 Featured Engineering Work
 
-### 📊 Observability & Monitoring
-- Prometheus, Grafana  
-- Datadog, Splunk, ELK Stack  
+My repositories focus on practical implementations around:
 
-### 🔐 Security & Identity
-- HashiCorp Vault, Azure AD, RBAC  
-- Secrets management & secure pipeline design  
+`AWS` `Kubernetes` `Terraform` `CI/CD` `DevOps Automation` `Observability` `SRE`
 
-### 💻 Scripting & Tooling
-- Bash, Python, Git  
+## 🤝 Connect
 
----
-
-## 🚀 What I Deliver
-- Design and implement **end-to-end CI/CD pipelines** (Dev → QA → Prod)  
-- Build and manage **production-grade Kubernetes platforms**  
-- Automate infrastructure using **Terraform (modular & scalable design)**  
-- Implement **monitoring, alerting, and observability strategies**  
-- Troubleshoot and resolve **critical production issues**  
-- Collaborate with architects and engineering teams to deliver **scalable cloud solutions**  
+[LinkedIn](https://linkedin.com/in/sripotu)
 
 ---
 
-## 🤖 Current Focus
-- AI Platform Engineering & LLM integrations  
-- Kubernetes performance & scaling  
-- Secure, cost-optimized cloud infrastructure  
-
----
-
-## 📌 Key Strengths
-- ✔ Infrastructure as Code (Terraform – enterprise usage)  
-- ✔ CI/CD pipeline architecture & optimization  
-- ✔ Multi-cloud expertise (AWS & Azure)  
-- ✔ Observability, reliability & SRE practices  
-- ✔ Production support & incident management  
-
----
-
-## 📫 Contact & Availability
-- 📍 Location: Belfast (Open to Dublin roles)  
-- 💼 Contract Availability: Immediate / Short Notice  
-- 🔗 LinkedIn: <your-link>
-
----
-
-⭐ Focused on delivering reliable, scalable, and production-ready systems with real business impact
+### Build • Automate • Observe • Improve 🚀
